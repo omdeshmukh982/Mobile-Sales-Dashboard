@@ -26,3 +26,7 @@ This dashboard empowers decision-makers to monitor sales performance, understand
 Would love to hear your thoughts or suggestions! Let’s connect if you're passionate about data visualization, mobile tech, or analytics. 👩‍💻👨‍💼
 
 #PowerBI #DataVisualization #MobileSales #DashboardDesign #BusinessIntelligence #DataAnalytics #MicrosoftPowerBI #SalesAnalytics #TechTrends #CustomerInsights
+
+*SCREENSHOT/DEMOS*
+Show what the dashboard looks like- https://github.com/omdeshmukh982/Mobile-Sales-Dashboard/blob/main/Mobile_Sales_Dashboard.png
+
